@@ -64,7 +64,7 @@ Main course notes containing the Linux concepts and commands learned from the ma
 
 A quick Linux command reference for revision.
 
-### `shell-scripting/basics.md`
+### `shell-scripting/README.md`
 
 Beginner Bash scripting notes and examples.
 
