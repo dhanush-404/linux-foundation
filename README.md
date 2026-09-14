@@ -1,6 +1,6 @@
-# Linux Masterclass POC
+# Linux Masterclass (Proof of Concept)
 
-A beginner-friendly Linux practice project based on the **Linux Masterclass in Tamil - 2025 Edition** course.
+A beginner-friendly Linux practice POC
 
 ## About
 
