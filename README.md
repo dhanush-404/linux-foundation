@@ -41,14 +41,15 @@ linux-masterclass-poc/
 ├── Linux-Masterclass-Notes.md
 │
 ├── commands/
-│   └── commands.md
+│   └── README.md (contains commands summary)
 │
 └── shell-scripting/
-    ├── basics.md
+    ├── README.md
     │
     ├── bash-practice/
     │
     └── scripts/
+        |-- README.md
         ├── basic.sh
         ├── file-management.sh
         └── system-info.sh
