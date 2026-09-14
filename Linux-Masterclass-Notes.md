@@ -1,4 +1,4 @@
-# Linux Masterclass Notes
+# Linux Master Notes
 
 These are my personal notes while learning Linux.
 
