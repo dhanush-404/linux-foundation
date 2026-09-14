@@ -1,4 +1,4 @@
-# Linux Masterclass (Proof of Concept)
+# Linux Learning (Proof of Concept)
 
 A beginner-friendly Linux practice POC
 
