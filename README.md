@@ -43,9 +43,6 @@ linux-masterclass-poc/
 ├── commands/
 │   └── commands.md
 │
-├── practice/
-│   └── README.md
-│
 └── shell-scripting/
     ├── basics.md
     │
