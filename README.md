@@ -84,4 +84,4 @@ The main goal of this project is to build a strong beginner-level understanding 
 
 The complete Linux notes are available here:
 
-[Linux Notes](Linux-Masterclass-Notes.md)
+[Linux Notes](Linux-Master-Notes.md)
