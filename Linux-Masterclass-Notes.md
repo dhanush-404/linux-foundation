@@ -6,6 +6,34 @@ I am learning Linux from the basics and practicing the commands in the terminal.
 
 ---
 
+## Topics
+
+1. [Introduction to Linux](#introduction-to-linux)
+2. [Files and Directories](#files-and-directories)
+3. [Working with Files](#working-with-files)
+4. [More File and Directory Commands](#more-file-and-directory-commands)
+5. [Viewing File Content](#viewing-file-content)
+6. [File Permissions](#file-permissions)
+7. [Wildcards and Pattern Matching](#wildcards-and-pattern-matching)
+8. [Command History and Autocomplete](#command-history-and-autocomplete)
+9. [Alias and nohup](#alias-and-nohup)
+10. [Hard Links and Symbolic Links](#hard-links-and-symbolic-links)
+11. [Background Jobs and Process Management](#background-jobs-and-process-management)
+12. [grep and Pipelines](#grep-and-pipelines)
+13. [SSH](#ssh)
+14. [SCP](#scp)
+15. [chmod](#chmod)
+16. [Cron](#cron)
+17. [Disk Management, ZIP and TAR](#disk-management-zip-and-tar)
+18. [wc, sort and uniq](#wc-sort-and-uniq)
+19. [find](#find)
+20. [awk](#awk)
+21. [Package Management](#package-management)
+22. [Apache Airflow](#apache-airflow)
+23. [Basic Networking Commands](#basic-networking-commands)
+24. [Bash Shell Scripting](#bash-shell-scripting)
+
+
 # 1. Introduction to Linux
 
 ## What is Linux?
