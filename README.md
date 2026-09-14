@@ -82,6 +82,6 @@ The main goal of this project is to build a strong beginner-level understanding 
 
 ## Course Notes
 
-The complete Linux Masterclass notes are available here:
+The complete Linux notes are available here:
 
-[Linux Masterclass Notes](Linux-Masterclass-Notes.md)
+[Linux Notes](Linux-Masterclass-Notes.md)
