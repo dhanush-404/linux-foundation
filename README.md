@@ -78,7 +78,7 @@ Final simple Bash scripts created as part of this POC.
 
 ## Goal
 
-The main goal of this project is to build a strong beginner-level understanding of Linux through hands-on practice.
+The main goal of this project is to build a strong understanding of Linux through hands-on practice.
 
 ## Course Notes
 
