@@ -32,7 +32,7 @@ The goal is to understand Linux by **learning the concept, practicing it locally
 * Bash shell scripting
 * Airflow basics
 
-## Project Structure
+## Structure
 
 ```text
 linux-masterclass-poc/
