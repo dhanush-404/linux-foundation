@@ -3153,14 +3153,3 @@ wget https://example.com/file.txt
 | `curl`        | Make a web request                       |
 | `wget`        | Download files                           |
 
-### Practice Completed
-
-* `ip addr` 
-* `ip route` 
-* `ping` with IP address 
-* `ping` with domain name 
-* `hostname` 
-* `hostname -i` 
-* `curl` 
-* `curl -I` 
-* `wget` was practiced earlier 
