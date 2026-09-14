@@ -58,7 +58,7 @@ linux-masterclass-poc/
 
 ### `Linux-Masterclass-Notes.md`
 
-Main course notes containing the Linux concepts and commands learned from the masterclass.
+Main course notes containing the Linux concepts and commands I've learned through videos and websites.
 
 ### `commands/commands.md`
 
