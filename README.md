@@ -55,31 +55,6 @@ linux-masterclass-poc/
         └── system-info.sh
 ```
 
-## Files
-
-### `Linux-Masterclass-Notes.md`
-
-Main course notes containing the Linux concepts and commands I've learned through videos and websites.
-
-### `commands/commands.md`
-
-A quick Linux command reference for revision.
-
-### `shell-scripting/README.md`
-
-Beginner Bash scripting notes and examples.
-
-### `shell-scripting/bash-practice/`
-
-Small Bash scripts created while learning scripting concepts.
-
-### `shell-scripting/scripts/`
-
-Final simple Bash scripts created as part of this POC.
-
-## Goal
-
-The main goal of this project is to build a strong understanding of Linux through hands-on practice.
 
 ## Course Notes
 
