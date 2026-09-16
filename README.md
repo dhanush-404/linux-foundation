@@ -4,7 +4,7 @@ A beginner-friendly Linux practice POC
 
 ## About
 
-This project contains my notes, command practice, and simple Bash scripts created while learning Linux.
+This repo contains my notes, command practice, and simple Bash scripts created while learning Linux.
 
 The goal is to understand Linux by **learning the concept, practicing it locally, and documenting what I learned**.
 
